@@ -25,5 +25,4 @@ Looking forward to connecting and building cool things together!
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/georg-konstanz)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://geo1337.github.io/portfolio_page)
