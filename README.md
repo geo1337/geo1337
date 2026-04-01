@@ -5,7 +5,7 @@
 I'm a `Fullstack Web Developer` and `Master's Student`
 
 Passionate about building clean web applications — from frontend to backend.
-Currently exploring IIoT, testing, and cloud-native technologies.
+Currently exploring IoT, testing, and cloud-native technologies.
 
 Looking forward to connecting and building cool things together!
 
