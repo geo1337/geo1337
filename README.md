@@ -10,7 +10,8 @@ Currently exploring IoT, testing, and cloud-native technologies.
 Looking forward to connecting and building cool things together!
 
 ---
-
+ 
+ 
 ## Languages & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
