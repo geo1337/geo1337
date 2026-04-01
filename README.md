@@ -40,3 +40,8 @@ Looking forward to connecting and building cool things together!
 ---
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://geo1337.github.io/portfolio_page)
+
+
+## Visitors
+
+![Visitors](https://komarev.com/ghpvc/?username=geo1337&color=grey)
