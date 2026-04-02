@@ -10,7 +10,7 @@ Currently exploring IoT, testing, and cloud-native technologies.
 Looking forward to connecting and building cool things together!
 
 ---
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Fullstack+Web+Developer;Open+to+work)](https://git.io/typing-svg)
+ ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Fullstack+Web+Developer;Open+to+work)](https://git.io/typing-svg)
 
 ## Languages & Tools
 
